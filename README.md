@@ -1,2 +1,2 @@
 #Pruebas
-Esto es lo que hacemos
+Estrructuras y funcionalidades basicas de Javascript
